@@ -1,6 +1,6 @@
 # Quiz-Application-Project
-🚀 Quiz Application 🚀
-I’ve developed a fun and interactive Quiz Application in Java! This console-based application tests your knowledge with 10 trivia questions and offers 3 lifelines (50-50, Audience Phone, and Skip Question) to assist players along the way. Players earn money for each correct answer, but one wrong answer ends the game. 🎮
+ Quiz Application 
+I’ve developed a fun and interactive Quiz Application in Java! This console-based application tests your knowledge with 10 trivia questions and offers 3 lifelines (50-50, Audience Phone, and Skip Question) to assist players along the way. Players earn money for each correct answer, but one wrong answer ends the game. 
 Key Features:
 1️⃣ 10 multiple-choice questions.
 2️⃣ 3 lifelines to aid in answering.
